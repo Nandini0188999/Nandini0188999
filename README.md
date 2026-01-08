@@ -72,12 +72,6 @@
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** Sathuluri Nandini  
-- **GitHub:** Nandini Sathuluri  
-- **Email:** 018nandini@gmail.com
-
----
 <!--
 **Nandini0188999/Nandini0188999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
