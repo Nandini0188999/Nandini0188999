@@ -1,5 +1,83 @@
 ## Hi there 👋
+# 👋 Hi, I'm Nandini Sathuluri
 
+🎓 B.Tech CSE (Data Science) | Associate Software Engineer Aspirant  
+💻 Interested in Web Development, WordPress, PHP, JavaScript & Software Engineering  
+📍 Hyderabad, India  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Web Technologies
+- PHP (Core PHP, WordPress Basics)
+- JavaScript (ES6+, DOM Manipulation, AJAX)
+- Python
+- Java
+- C / C++
+- SQL / MySQL
+- HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
+- Data Structures & Algorithms
+
+### ⚙️ Frameworks & Libraries
+- React.js
+- Node.js
+- Flask
+- TensorFlow, Keras
+- OpenCV
+- WordPress (Theme & Plugin Customization – Beginner/Intermediate)
+
+### 🗄️ Databases & Cloud
+- MySQL
+- MongoDB
+- Google Cloud Platform
+- Google Colab
+
+### 🧰 Developer & Analytics Tools
+- Git & GitHub
+- VS Code
+- Docker
+- Power BI
+- Tableau
+- AutoCAD
+- LaTeX
+
+### 🖥️ Operating Systems
+- Linux
+- Windows
+
+### 🧠 Core Software Engineering
+- Object-Oriented Programming (OOP)
+- REST API Integration
+- Debugging & Performance Optimization
+- Version Control & Collaboration
+- Problem Solving & Algorithmic Thinking
+
+### 🤝 Soft Skills
+- Communication
+- Teamwork & Collaboration
+- Problem-Solving
+- Adaptability
+- Time Management
+- Leadership
+- Critical Thinking
+
+---
+
+## 🚀 Currently Working On
+- Custom WordPress Plugin Development
+- Web Applications using React & Node.js
+- Machine Learning Projects
+- Open-source Contributions
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** Sathuluri Nandini  
+- **GitHub:** Nandini Sathuluri  
+- **Email:** 018nandini@gmail.com
+
+---
 <!--
 **Nandini0188999/Nandini0188999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
