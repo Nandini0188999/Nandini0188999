@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nandini Sathuluri
 
 🎓 B.Tech CSE (Data Science) | Associate Software Engineer Aspirant  
-💻 Interested in Web Development, WordPress, PHP, JavaScript & Software Engineering  
 📍 Hyderabad, India  
 
 ---
@@ -9,13 +8,13 @@
 ## 🛠️ Skills
 
 ### 💻 Programming & Web Technologies
-- JavaScript (ES6+, DOM Manipulation, AJAX)
+- JavaScript
 - Python
 - Java
 - C / C++
 - SQL / MySQL
 - HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
-- PHP (Core PHP, WordPress Basics)
+- PHP 
 - Data Structures & Algorithms
 
 ### ⚙️ Frameworks & Libraries
@@ -24,7 +23,6 @@
 - Flask
 - TensorFlow, Keras
 - OpenCV
-- WordPress (Theme & Plugin Customization – Beginner/Intermediate)
 
 ### 🗄️ Databases & Cloud
 - MySQL
