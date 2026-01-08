@@ -9,13 +9,13 @@
 ## 🛠️ Skills
 
 ### 💻 Programming & Web Technologies
-- PHP (Core PHP, WordPress Basics)
 - JavaScript (ES6+, DOM Manipulation, AJAX)
 - Python
 - Java
 - C / C++
 - SQL / MySQL
 - HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
+- PHP (Core PHP, WordPress Basics)
 - Data Structures & Algorithms
 
 ### ⚙️ Frameworks & Libraries
