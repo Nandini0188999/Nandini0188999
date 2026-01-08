@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Nandini Sathuluri
 
 🎓 B.Tech CSE (Data Science) | Associate Software Engineer Aspirant  
